@@ -57,3 +57,29 @@ Support digital reporting and documentation of incidents.
 ## Live Demo
 
 https://safe-trek-shield.base44.app
+
+
+## Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+![Dashboard](dashboard1.png)
+![Dashboard](dashboard2.png)
+
+### Live Tracking Map
+![Live Map](livemap.png)
+
+### Risk Zones
+![Risk Zones](risk-zones.png)
+
+### Tourist Management
+![Tourists](tourists.png)
+
+### Alerts
+![Alerts](alerts.png)
+
+### Incidents
+![Incidents](incidents.png)
+
+### eFIR
+![eFIR](efir.png)
